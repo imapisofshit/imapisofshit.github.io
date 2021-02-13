@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://freene.tk</id>
     <title>飞翔小站</title>
-    <updated>2021-02-13T08:43:27.629Z</updated>
+    <updated>2021-02-13T08:55:33.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://freene.tk"/>
     <link rel="self" href="https://freene.tk/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://freene.tk/images/avatar.png</logo>
     <icon>https://freene.tk/favicon.ico</icon>
     <rights>All rights reserved 2021, 飞翔小站</rights>
+    <entry>
+        <title type="html"><![CDATA[test2]]></title>
+        <id>https://freene.tk/post/test2/</id>
+        <link href="https://freene.tk/post/test2/">
+        </link>
+        <updated>2021-02-13T08:47:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>test<br>
+<em>test</em> <strong>test</strong><br>
+#test<br>
+##test<br>
+<a href="www.baidu.com">test</a><br>
+<code>test</code><br>
+<code>test</code><br>
+<img src="https://pic.sogou.com/d?query=%E9%BB%91%E6%9A%97%E4%B8%AD%E7%9A%84%E8%9C%A1%E7%83%9B%E5%9B%BE%E7%89%87&amp;ie=utf8&amp;page=1&amp;did=4&amp;st=255&amp;mode=255&amp;phu=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F01%2F11%2F07%2F53%2Fthe-flame-1971068_1280.jpg&amp;p=40230500&amp;entityid=&amp;rawQuery=%E9%BB%91%E6%9A%97%E4%B8%AD%E7%9A%84%E8%9C%A1%E7%83%9B%E5%9B%BE%E7%89%87" alt="test" loading="lazy"></p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://freene.tk/post/test/</id>
