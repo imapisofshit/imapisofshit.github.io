@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>关于 | 飞翔小站</title>
-<link rel="shortcut icon" href="https://freene.tk/favicon.ico?v=1613220397705">
+<link rel="shortcut icon" href="https://freene.tk/favicon.ico?v=1613269116667">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://freene.tk/styles/main.css">
 <link rel="alternate" type="application/atom+xml" title="关于 | 飞翔小站 - Atom Feed" href="https://freene.tk/atom.xml">
@@ -22,13 +22,15 @@
     <meta name="keywords" content="" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
     <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>    
   </head>
+
   <body>
     <div class="main">
       <div class="main-content">
         <div class="site-header">
   <a href="https://freene.tk">
-  <img class="avatar" src="https://freene.tk/images/avatar.png?v=1613220397705" alt="">
+  <img class="avatar" src="https://freene.tk/images/avatar.png?v=1613269116667" alt="">
   </a>
   <h1 class="site-title">
     飞翔小站
@@ -122,7 +124,16 @@
         </div>
 
         
-
+        
+        <div id="vcomments"></div>
+             <script>
+                 new Valine({
+                     el: '#vcomments',
+                     appId: 'URq4SPo1yoF4REcN7vAE92Y1-MdYXbMMI',
+                     appKey: 'tIwutPq7ebx6XDi7wtD863Cj'
+                 })
+             </script>
+    
         
           
             <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
@@ -147,10 +158,10 @@
 </script>
 
           
-
+    
           
         
-
+    
         <div class="site-footer">
   feixiang all rights reserved
   <a class="rss" href="https://freene.tk/atom.xml" target="_blank">
@@ -160,12 +171,12 @@
 
       </div>
     </div>
-
+    
     <script>
       hljs.initHighlightingOnLoad()
-
+    
       let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
-
+    
       // This should probably be throttled.
       // Especially because it triggers during smooth scrolling.
       // https://lodash.com/docs/4.17.10#throttle
@@ -174,10 +185,10 @@
       //    _.throttle(doThatStuff, 100);
       // });
       // Only not doing it here to keep this Pen dependency-free.
-
+    
       window.addEventListener("scroll", event => {
         let fromTop = window.scrollY;
-
+    
         mainNavLinks.forEach((link, index) => {
           let section = document.getElementById(decodeURI(link.hash).substring(1));
           let nextSection = null
@@ -199,7 +210,11 @@
           }
         });
       });
-
+    
     </script>
   </body>
 </html>
+
+```
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+```
