@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://freene.tk</id>
     <title>飞翔小站</title>
-    <updated>2021-02-14T02:20:09.042Z</updated>
+    <updated>2021-02-28T00:53:57.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://freene.tk"/>
     <link rel="self" href="https://freene.tk/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://freene.tk/images/avatar.png</logo>
     <icon>https://freene.tk/favicon.ico</icon>
     <rights>All rights reserved 2021, 飞翔小站</rights>
+    <entry>
+        <title type="html"><![CDATA[咏蝼蚁]]></title>
+        <id>https://freene.tk/post/yong-lou-yi/</id>
+        <link href="https://freene.tk/post/yong-lou-yi/">
+        </link>
+        <updated>2021-02-28T00:47:23.000Z</updated>
+        <content type="html"><![CDATA[<p>身小却担千斤重，心大不容毒蛇声。<br>
+虽无大树遮雨冠，偶能足立似人行。<br>
+谁人非为蚍蜉命？心欲立于天地中。<br>
+大树无非根与叶，不视其重树自轻。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test2]]></title>
         <id>https://freene.tk/post/test2/</id>
