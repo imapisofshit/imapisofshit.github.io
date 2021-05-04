@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://depress.ml</id>
     <title>无榠的私人领地</title>
-    <updated>2021-05-04T10:16:30.349Z</updated>
+    <updated>2021-05-04T10:28:18.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://depress.ml"/>
     <link rel="self" href="https://depress.ml/atom.xml"/>
@@ -23,8 +23,7 @@
         <link href="https://depress.ml/post/yong-lou-yi/">
         </link>
         <updated>2021-02-28T00:47:23.000Z</updated>
-        <content type="html"><![CDATA[<p>tags: [个人作品]<br>
-身小却担千斤重，心大不容毒蛇声。<br>
+        <content type="html"><![CDATA[<p>身小却担千斤重，心大不容毒蛇声。<br>
 虽无大树遮雨冠，偶能足立似人行。<br>
 谁人非为蚍蜉命？心欲立于天地中。<br>
 大树无非根与叶，不视其重树自轻。</p>
