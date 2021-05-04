@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://depress.ml</id>
     <title>飞翔小站</title>
-    <updated>2021-05-04T01:04:30.145Z</updated>
+    <updated>2021-05-04T01:06:32.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://depress.ml"/>
     <link rel="self" href="https://depress.ml/atom.xml"/>
