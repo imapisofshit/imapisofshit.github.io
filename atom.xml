@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://depress.ml</id>
-    <title>飞翔小站</title>
-    <updated>2021-05-04T01:19:43.246Z</updated>
+    <title>无榠的私人领地</title>
+    <updated>2021-05-04T01:20:40.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://depress.ml"/>
     <link rel="self" href="https://depress.ml/atom.xml"/>
     <subtitle>为自由鼓与呼</subtitle>
     <logo>https://depress.ml/images/avatar.png</logo>
     <icon>https://depress.ml/favicon.ico</icon>
-    <rights>All rights reserved 2021, 飞翔小站</rights>
+    <rights>All rights reserved 2021, 无榠的私人领地</rights>
     <entry>
         <title type="html"><![CDATA[这是标题]]></title>
         <id>https://depress.ml/post/you-du-de-zi-hao/</id>
